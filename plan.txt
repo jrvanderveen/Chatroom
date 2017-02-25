@@ -1,0 +1,5 @@
+1) For this program we will be building a basic chat room.  255 people will be able to chat together at a time.
+Each client that connects will have a terminal to enter their messages to the chat room and a terminal to view the group thread.
+2) No faults.
+3) Keeping every client and their thread up to date with everyone seems like the hardest part.  Beyond that it is just sending and receiving.
+4) http://www.geeksforgeeks.org implementation with a few added functions like fillTree() and free() writing by us.

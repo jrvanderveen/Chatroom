@@ -1,0 +1,13 @@
+
+Write up
+
+1)Johan Van der Veen, Ryan Toye
+
+2)We attempted to get the timeout section of select working for several hours, but after talking with Professor Huchenson, we came to the conclusion that given the time constraint and the amount it would affect our already written code it would be better to leave that logic out of our finished product so we removed it.
+
+3)We ran the server, participants, and observers on three separate terminal windows for our initial testing. Later we added to more terminal Windows to test having more observers+participants and ran our code on separate computers.
+
+4)The most challenging part of the assignment was definitely the timeout. We got every other part of the assignment working correctly first, and the more we added to the logic for the timeout, the more our already written code failed and caused bugs. Implementing the timeout also meant we had to move large sections of our logic around making it impossible to find and changed things that we already gotten working days ago. We added parts of the timeout logic to the bottom of our assignment commented out to allow you to see what we had written.
+
+note:
+because we did not get the timeout working everything must be done in an iterative process.  If you connect a participant you must completly negotiate the user name before anything else can be done and same with observes. 
